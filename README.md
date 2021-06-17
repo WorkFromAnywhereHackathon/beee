@@ -1,5 +1,7 @@
 # beee
 
+Slack bot that helps conducting online hackathons.
+
 ## Slack bot https://github.com/preshetin/hackathon-slack-bot
 
 Welcome message:
