@@ -21,5 +21,7 @@ Once registered, a message is sent to public channel:
 
 ## Web dashbarad for Beee Slack bot https://github.com/preshetin/bee-web-dashboard
 
+Live hackathon page 🚀 at https://wfanywherehackathon.netlify.app/
+
 ![CleanShot 2021-06-17 at 18 36 52@2x](https://user-images.githubusercontent.com/4620130/122428899-007cee00-cf9b-11eb-9e7c-3765c54dd972.png)
 
